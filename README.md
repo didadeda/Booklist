@@ -1,2 +1,0 @@
-# Booklist
-Created with CodeSandbox
